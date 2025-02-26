@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from PIL import Image
 
 # Генерация случайных данных
 def generate_data(num_points=100):
